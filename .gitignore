@@ -1,0 +1,9 @@
+# Compiler files
+cache/
+artifacts/
+
+# Node modules
+node_modules/
+
+# Dotenv file
+.env

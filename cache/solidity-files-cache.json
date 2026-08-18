@@ -1,9 +1,9 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "D:\\Myproject\\module_project\\SolidityTest\\contracts\\IDividends.sol": {
-      "lastModificationDate": 1784235976364,
-      "contentHash": "6faba6398bdab91b7c069774f74e31ea",
+    "/home/licdora/Boot/scam/Assessment_solidity/contracts/IDividends.sol": {
+      "lastModificationDate": 1787067261352,
+      "contentHash": "24f3d2f417ab5a2592b28a52a780b88b",
       "sourceName": "contracts/IDividends.sol",
       "solcConfig": {
         "version": "0.7.0",
@@ -36,9 +36,9 @@
         "IDividends"
       ]
     },
-    "D:\\Myproject\\module_project\\SolidityTest\\contracts\\Token.sol": {
-      "lastModificationDate": 1784235976366,
-      "contentHash": "ad9b42d10606d767534f00eadcef18cc",
+    "/home/licdora/Boot/scam/Assessment_solidity/contracts/Token.sol": {
+      "lastModificationDate": 1787069934769,
+      "contentHash": "39dff6dcfc6bfc05ab588d7ff263764f",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
         "version": "0.7.0",
@@ -76,44 +76,9 @@
         "Token"
       ]
     },
-    "D:\\Myproject\\module_project\\SolidityTest\\contracts\\IMintableToken.sol": {
-      "lastModificationDate": 1784235976365,
-      "contentHash": "7e18f86134814b033ca67b7a19189cb6",
-      "sourceName": "contracts/IMintableToken.sol",
-      "solcConfig": {
-        "version": "0.7.0",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "0.7.0"
-      ],
-      "artifacts": [
-        "IMintableToken"
-      ]
-    },
-    "D:\\Myproject\\module_project\\SolidityTest\\contracts\\IERC20.sol": {
-      "lastModificationDate": 1784235976364,
-      "contentHash": "3589b124725867bc15a8acb4a209d1f0",
+    "/home/licdora/Boot/scam/Assessment_solidity/contracts/IERC20.sol": {
+      "lastModificationDate": 1787067261352,
+      "contentHash": "0fa6aaa149e17876af06d1aacc5a4c77",
       "sourceName": "contracts/IERC20.sol",
       "solcConfig": {
         "version": "0.7.0",
@@ -146,9 +111,44 @@
         "IERC20"
       ]
     },
-    "D:\\Myproject\\module_project\\SolidityTest\\contracts\\SafeMath.sol": {
-      "lastModificationDate": 1784235976365,
-      "contentHash": "d2224c5cf7f8c3158c339bb729abf071",
+    "/home/licdora/Boot/scam/Assessment_solidity/contracts/IMintableToken.sol": {
+      "lastModificationDate": 1787067261352,
+      "contentHash": "a1842ea19465c3d894c1a9b9473ddb90",
+      "sourceName": "contracts/IMintableToken.sol",
+      "solcConfig": {
+        "version": "0.7.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.7.0"
+      ],
+      "artifacts": [
+        "IMintableToken"
+      ]
+    },
+    "/home/licdora/Boot/scam/Assessment_solidity/contracts/SafeMath.sol": {
+      "lastModificationDate": 1787067261353,
+      "contentHash": "128b021ec7f9968f4a0a59d73079672c",
       "sourceName": "contracts/SafeMath.sol",
       "solcConfig": {
         "version": "0.7.0",
@@ -181,9 +181,9 @@
         "SafeMath"
       ]
     },
-    "D:\\Myproject\\module_project\\SolidityTest\\contracts\\Migrations.sol": {
-      "lastModificationDate": 1784235976365,
-      "contentHash": "e9b9dab4fdc48930d8fc4c6c8142e75c",
+    "/home/licdora/Boot/scam/Assessment_solidity/contracts/Migrations.sol": {
+      "lastModificationDate": 1787067261352,
+      "contentHash": "593ee06ba6e405332244b2e5ca17c39f",
       "sourceName": "contracts/Migrations.sol",
       "solcConfig": {
         "version": "0.7.0",
