@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@nomiclabs/hardhat-truffle5": "^2.0.0",
+    "@nomiclabs/hardhat-truffle5": "^3.0.0",
     "@nomiclabs/hardhat-web3": "^2.0.0",
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
@@ -22,7 +22,7 @@
     "hardhat": "^3.13.0",
     "lodash": "^4.17.21",
     "rimraf": "^5.0.0",
-    "web3": "^1.5.2"
+    "web3": "^4.16.0"
   },
   "engines": {
     "node": ">=20.0.0"
