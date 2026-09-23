@@ -19,7 +19,7 @@
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "chai-tracker": "^1.2.1",
-    "hardhat": "^2.22.0",
+    "hardhat": "^3.13.0",
     "lodash": "^4.17.21",
     "rimraf": "^5.0.0",
     "web3": "^1.5.2"
